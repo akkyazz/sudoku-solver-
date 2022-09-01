@@ -7,6 +7,8 @@ Create a function that checks after assigning the current index the grid becomes
 Create a recursive function that takes a grid.
 Check for any unassigned location. If present then assign a number from 1 to 9, check if assigning the number to current index makes the grid unsafe or not, if safe then recursively call the function for all safe cases from 0 to 9. if any recursive call returns true, end the loop and return true. If no recursive call returns true then return false.
 If there is no unassigned location then return true.
-![sudo 1 ](https://user-images.githubusercontent.com/52878265/185159222-894f747c-16e1-49f5-9162-534770b16052.png)
-![sudo 3 ](https://user-images.githubusercontent.com/52878265/185159242-272e4fec-52ad-4a59-b934-51c1448e78bf.png)
-![sudo 22](https://user-images.githubusercontent.com/52878265/185159246-1241577b-fdd9-4e9f-8e03-501ed65c0d1e.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/52878265/187995996-8337260a-af20-44ca-b723-a316cceccdac.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/52878265/187996037-8a5c3ad4-f86f-4c7f-8b4e-5d262f7a1258.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/52878265/187996092-8b71840d-e0ad-4148-a5f4-29a86ade9cd7.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/52878265/187996142-15697cdb-dca2-4983-a64f-0dac5517bf57.png)
+
